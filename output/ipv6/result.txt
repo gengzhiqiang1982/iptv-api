@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-19 17:11:27,https://iptv.catvod.com/live.php?id=CCTV2&line=14$订阅源
+2026-06-22 17:53:46,https://iptv.catvod.com/live.php?id=CCTV2&line=14$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=14$订阅源
@@ -13,6 +13,8 @@ CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5plus$订阅源
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5$订阅源
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV-5$订阅源
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV-5plus$订阅源
+CCTV-5,https://live.666666.zip/stream/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8$订阅源
+CCTV-5,https://live.666666.zip/stream/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV-5%2B%20%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV-5%2B$订阅源
